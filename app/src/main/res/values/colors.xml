@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#C2CECB</color>
+    <color name="purple_500">#7C8785</color>
+    <color name="purple_700">#434E4B</color>
+    <color name="teal_200">#8FA7B4</color>
+    <color name="teal_700">#DFEFF9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="toobar_vc">#FA98D6</color>
+    <color name="toobar_iii">#C5BD2F</color>
+    <color name="toobar_gtav">#3DC32E</color>
+    <color name="item_background">#868C8C8C</color>
+    <color name="item_background_vc">#72FA98D6</color>
+    <color name="item_background_iii">#77C5BD2F</color>
+    <color name="item_background_v">#8D3DC32E</color>
+</resources>
