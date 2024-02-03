@@ -32,6 +32,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'br.com.willaimsilva.cheatsgta'
 }
 
 dependencies {

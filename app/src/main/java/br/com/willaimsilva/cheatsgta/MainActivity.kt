@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         // menu should be considered as top level destinations.
         appBarConfiguration = AppBarConfiguration(
             setOf(
-                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow, R.id.nav_gta_v
+                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow, R.id.nav_gta_v,R.id.nav_gtaiv,R.id.nav_gta2,R.id.nav_gta1
             ), drawerLayout
         )
         setupActionBarWithNavController(navController, appBarConfiguration)
@@ -55,6 +55,16 @@ class MainActivity : AppCompatActivity() {
               R.id.nav_gta_v->{
                   binding.appBarMain.toolbar.setBackgroundColor(getColor(R.color.toobar_gtav))
               }
+              R.id.nav_gtaiv->{
+                  binding.appBarMain.toolbar.setBackgroundColor(getColor(R.color.toobar_iv))
+              }
+              R.id.nav_gta2->{
+                  binding.appBarMain.toolbar.setBackgroundColor(getColor(R.color.toobar_gta2))
+              }
+              R.id.nav_gta1->{
+                  binding.appBarMain.toolbar.setBackgroundColor(getColor(R.color.toobar_gta1))
+              }
+
           }
 
         })

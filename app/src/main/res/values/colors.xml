@@ -7,11 +7,20 @@
     <color name="teal_700">#DFEFF9</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="toobar_vc">#FA98D6</color>
-    <color name="toobar_iii">#C5BD2F</color>
-    <color name="toobar_gtav">#3DC32E</color>
+
     <color name="item_background">#868C8C8C</color>
     <color name="item_background_vc">#72FA98D6</color>
     <color name="item_background_iii">#77C5BD2F</color>
+    <color name="item_backgound_iv">#5CAE8D2A</color>
     <color name="item_background_v">#8D3DC32E</color>
+    <color name="item_background_2">#83DA3939</color>
+    <color name="item_background_gta1">#97DCC00C</color>
+
+    <color name="toobar_iv">#8DAE8D2A</color>
+    <color name="toobar_gta2">#DC0C0C</color>
+    <color name="toobar_gta1">#DCC00C</color>
+    <color name="toobar_vc">#FA98D6</color>
+    <color name="toobar_iii">#C5BD2F</color>
+    <color name="toobar_gtav">#3DC32E</color>
+
 </resources>

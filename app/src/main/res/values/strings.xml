@@ -10,6 +10,11 @@
     <string name="menu_home">Gta SanAndreas</string>
     <string name="menu_gallery">Gta Liberty City</string>
     <string name="menu_slideshow">Gta III</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="menu_gta_v">Gta V</string>
+    <string name="menu_gta_iv">Gta IV</string>
+    <string name="menu_gta2">Gta 2</string>
+    <string name="menu_gta1">Gta 1</string>
+
+
+
 </resources>

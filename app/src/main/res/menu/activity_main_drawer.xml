@@ -21,6 +21,18 @@
             android:id="@+id/nav_gta_v"
             android:icon="@drawable/icon_gta_v"
             android:title="@string/menu_gta_v" />
+        <item
+            android:id="@+id/nav_gtaiv"
+            android:icon="@drawable/icon_iv"
+            android:title="@string/menu_gta_iv" />
+        <item
+            android:id="@+id/nav_gta2"
+            android:icon="@drawable/logo1"
+            android:title="@string/menu_gta2" />
+        <item
+            android:id="@+id/nav_gta1"
+            android:icon="@drawable/icon_gta_1"
+            android:title="@string/menu_gta1" />
 
 
     </group>

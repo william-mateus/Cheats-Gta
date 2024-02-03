@@ -28,4 +28,19 @@
         android:name="br.com.willaimsilva.cheatsgta.GTAVFragment"
         android:label="@string/menu_gta_v"
         tools:layout="@layout/fragment_gtav" />
+    <fragment
+        android:id="@+id/nav_gtaiv"
+        android:name="br.com.willaimsilva.cheatsgta.fragment_gtaiv"
+        android:label="@string/menu_gta_iv"
+        tools:layout="@layout/fragment_gtaiv" />
+    <fragment
+        android:id="@+id/nav_gta2"
+        android:name="br.com.willaimsilva.cheatsgta.fragment_gta2"
+        android:label="Gta2"
+        tools:layout="@layout/fragment_gta2" />
+    <fragment
+        android:id="@+id/nav_gta1"
+        android:name="br.com.willaimsilva.cheatsgta.fragment_gta1"
+        android:label="GTA"
+        tools:layout="@layout/fragment_gta1" />
 </navigation>
