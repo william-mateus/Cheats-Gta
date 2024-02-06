@@ -22,5 +22,6 @@
     <color name="toobar_vc">#FA98D6</color>
     <color name="toobar_iii">#C5BD2F</color>
     <color name="toobar_gtav">#3DC32E</color>
+    <color name="toobar_splash_screen">#C9FFC107</color>
 
 </resources>
